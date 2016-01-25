@@ -1,4 +1,9 @@
 {
   "name": "tasks",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "class": "github:lexarx/class",
+    "collections": "github:lexarx/collections",
+    "event": "github:lexarx/event"
+  }
 }
